@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Aquí almacenamos una operación de Suma y Resta
 =======
 Aquí almacenamos una Multiplicación y División
 >>>>>>> operaciones_aritmeticas_multi_div
+=======
+Aquí solo utilizamos porcentaje
+>>>>>>> calculo_procentaje
